@@ -12,6 +12,5 @@ Algunas características comunes que se ven en Nginx incluyen:
 - Manejo de archivos estáticos, archivos de índice y auto indexación
 - TLS / SSL con SNI
 
-![NGINX]()
-
 :arrow_backward:[VOLVER](https://github.com/kikelopser/Nginx)
+![NGINX]()
