@@ -1,5 +1,5 @@
 # Nginx
-## Indice instalacion de NGINX en Debian 11.
+## Indice instalacion de Nginx en Debian 11.
 
 :one: [Introducción.](https://github.com/kikelopser/Nginx/blob/main/Introduccion.md)
 
