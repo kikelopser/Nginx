@@ -13,4 +13,5 @@ Algunas características comunes que se ven en Nginx incluyen:
 - TLS / SSL con SNI
 
 :arrow_backward:[VOLVER](https://github.com/kikelopser/Nginx)
+
 ![NGINX]()
