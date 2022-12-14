@@ -19,3 +19,5 @@ Nginx sigue un enfoque que se basa en eventos asíncronos que sirven para poder 
 :five: _Procesamiento de contenido dinámico_
 
 Apache procesa contenido dinámico de forma nativa dentro del propio servidor web, algo que Nginx carece porque no tiene la capacidad de hacerlo internamente. Nginx depende de procesos que sólo se pueden ejecutar externamente.
+
+![NGINXvsAPACHE]()
