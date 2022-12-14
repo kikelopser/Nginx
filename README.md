@@ -1,12 +1,8 @@
 # Nginx
 ## Indice instalacion de NGINX en Debian 11.
 
-1.-Introducción.
-
-2.-Comparativa con Apache.
-
-3.- Instalación.
-
-4.- Casos prácticos.
-
-5.- Referencias.
+:one: Introducción.
+:two: Comparativa con Apache.
+:three: Instalación.
+:four: Casos prácticos.
+:five: Referencias.
