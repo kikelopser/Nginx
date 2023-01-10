@@ -22,4 +22,4 @@ Apache procesa contenido dinámico de forma nativa dentro del propio servidor we
 
 :arrow_backward:[VOLVER](https://github.com/kikelopser/Nginx)
 
-![NGINXvsAPACHE]()
+![NGINXvsAPACHE](https://github.com/kikelopser/Nginx/blob/main/Nginx/apache-vs-nginx.jpg)
