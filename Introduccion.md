@@ -14,4 +14,4 @@ Algunas características comunes que se ven en Nginx incluyen:
 
 :arrow_backward:[VOLVER](https://github.com/kikelopser/Nginx)
 
-![NGINX]()
+![NGINX](https://github.com/kikelopser/Nginx/blob/main/Nginx/qu%C3%A9-es-nginx-1.png)
