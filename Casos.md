@@ -140,3 +140,5 @@ systemctl restart nginx.service
 10.- Comprobamos que funciona HTTPS
 
 ![36](https://github.com/kikelopser/Nginx/blob/main/Nginx/36.PNG)
+
+:arrow_backward:[VOLVER](https://github.com/kikelopser/Nginx)
