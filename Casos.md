@@ -120,27 +120,23 @@ Comprobamos el fichero
 systemctl restart nginx.service
 ```
 
-4.- Añadimos el host en el fichero de configuracion
-
-![32](https://github.com/kikelopser/Nginx/blob/main/Nginx/32.PNG)
-
-5.- Hacemos las comprobaciones
+6.- Hacemos las comprobaciones
 
 ![33](https://github.com/kikelopser/Nginx/blob/main/Nginx/33.PNG)
 
-6.- Vamos a crear un certificado SSL. Creamos el siguiente directorio y ejecutamos el siguiente comando
+7.- Vamos a crear un certificado SSL. Creamos el siguiente directorio y ejecutamos el siguiente comando
 
 ![34](https://github.com/kikelopser/Nginx/blob/main/Nginx/34.PNG)
 
-7.- Modificamos el fichero de balanceo
+8.- Modificamos el fichero de balanceo
 
 ![35](https://github.com/kikelopser/Nginx/blob/main/Nginx/35.PNG)
 
-8.- Reiniciamos el servicio Nginx
+9.- Reiniciamos el servicio Nginx
 ```
 systemctl restart nginx.service
 ```
 
-9.- Comprobamos que funciona HTTPS
+10.- Comprobamos que funciona HTTPS
 
 ![36](https://github.com/kikelopser/Nginx/blob/main/Nginx/36.PNG)
