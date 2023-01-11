@@ -116,6 +116,9 @@ Comprobamos el fichero
 ![31](https://github.com/kikelopser/Nginx/blob/main/Nginx/31.PNG)
 
 5.- Reiniciamos el servicio Nginx
+```
+systemctl restart nginx.service
+```
 
 4.- Añadimos el host en el fichero de configuracion
 
